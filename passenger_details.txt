@@ -1,0 +1,3 @@
+['pass', 'John', 'Rick', 'SHIVANSH']   
+['age', '23', '25', '9']   
+['adhaar', 'xxxxxxx', 'yyyyyyy', '346651456414']

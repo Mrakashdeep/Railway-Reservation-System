@@ -1,0 +1,7 @@
+['PNR', 'A1001', 'A1002'] 
+['Train_Name', 'Rajdhani_Express_Sealdah_to_Delhi', 'Rajdhani_Express_Delhi_to_Sealdah'] 
+['Route', 'SDAH to DEL', 'DEL to SDAH']  
+['DAY', '04', '23'] 
+['MONTH', '06', '12'] 
+['YEAR', '2022', '2022']  
+['Time', '18:00', '13:45']

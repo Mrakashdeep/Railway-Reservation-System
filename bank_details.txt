@@ -1,0 +1,4 @@
+['bankname', 'ICICI', 'AXIS'] 
+['accountnumber', 'XXXXXXXXX12', '36544'] 
+['ifsccode', '12XXXXXXXXX56', '789456123'] 
+['holdername', 'John P', 'DEAN']

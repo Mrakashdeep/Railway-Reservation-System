@@ -1,0 +1,2 @@
+[[{'1': [['A1001'] ,['Rajdhani_Express_Sealdah_to_Delhi']]}], ['SDAH to DEL'], ['18:00'], {'AC' : [2000], 'NONAC' : [1500]}]
+[[{'2': [['A1002'] ,['Rajdhani_Express_Delhi_to_Sealdah']]}], ['DEL to SDAH'], ['13:45'], {'AC' : [2000], 'NONAC' : [1500]}]
